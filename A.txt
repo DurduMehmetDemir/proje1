@@ -1,2 +1,18 @@
 print mehmet
 print ahmet
+dal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
